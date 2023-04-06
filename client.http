@@ -1,0 +1,10 @@
+POST http://localhost:3000/reg
+
+#####
+
+GET http://localhost:3000/bye
+
+########
+
+GET http://localhost:3000/
+
