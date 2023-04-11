@@ -1,3 +1,25 @@
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "username":"JimLaureth",
+    "password":"password"
+}
+
+#######
+
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+    "username": "JimLaureth",
+    "password": "password",
+    "name": "Laureth",
+    "email": "Laureth@utem.edu.com"
+}
+
+######
+
 POST http://localhost:3000/reg
 
 #####
